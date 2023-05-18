@@ -7,6 +7,7 @@ import java.util.Properties;
 
 public class GetFromPf {
 
+	//comment
 	public static Properties createDataObject() throws Exception {
 		
 		String Pf_loc = "/Users/KA20463902/eclipse-workspace/Irctc/utilities/Obj_repo.properties";
