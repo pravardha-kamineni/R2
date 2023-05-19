@@ -25,6 +25,7 @@ public class Base {
 		action = new Actions(driver);
 		driver.get(url);
 		
+		System.out.println("new code");
 		//implicit weight
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		
@@ -34,7 +35,7 @@ public class Base {
 
 	}
 	
-	//133435632345
+	//1334356323yhfgfgf45
 
 	//@AfterTest
 	public static void end() {
